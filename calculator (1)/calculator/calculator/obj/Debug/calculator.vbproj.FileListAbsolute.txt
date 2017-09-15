@@ -1,0 +1,18 @@
+F:\大學\大三下\視窗程式設計\calculator\calculator\bin\Debug\calculator.exe.config
+F:\大學\大三下\視窗程式設計\calculator\calculator\bin\Debug\calculator.exe
+F:\大學\大三下\視窗程式設計\calculator\calculator\bin\Debug\calculator.pdb
+F:\大學\大三下\視窗程式設計\calculator\calculator\bin\Debug\calculator.xml
+F:\大學\大三下\視窗程式設計\calculator\calculator\obj\Debug\calculator.Form1.resources
+F:\大學\大三下\視窗程式設計\calculator\calculator\obj\Debug\calculator.Resources.resources
+F:\大學\大三下\視窗程式設計\calculator\calculator\obj\Debug\calculator.vbproj.GenerateResource.Cache
+F:\大學\大三下\視窗程式設計\calculator\calculator\obj\Debug\calculator.exe
+F:\大學\大三下\視窗程式設計\calculator\calculator\obj\Debug\calculator.xml
+F:\大學\大三下\視窗程式設計\calculator\calculator\obj\Debug\calculator.pdb
+F:\大學\大三下\視窗程式設計\calculator\calculator\bin\Debug\calculator.exe.manifest
+F:\大學\大三下\視窗程式設計\calculator\calculator\bin\Debug\calculator.application
+F:\大學\大三下\視窗程式設計\calculator\calculator\obj\Debug\calculator.exe.manifest
+F:\大學\大三下\視窗程式設計\calculator\calculator\obj\Debug\calculator.application
+C:\Users\DH\Downloads\calculator (1)\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\DH\Downloads\calculator (1)\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\DH\Downloads\calculator (1)\calculator\calculator\obj\Debug\calculator.xml
+C:\Users\DH\Downloads\calculator (1)\calculator\calculator\obj\Debug\calculator.pdb

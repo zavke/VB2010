@@ -1,0 +1,14 @@
+F:\大學\大三下\視窗程式設計\calculator\calculator\bin\Release\calculator.exe.config
+F:\大學\大三下\視窗程式設計\calculator\calculator\bin\Release\calculator.exe.manifest
+F:\大學\大三下\視窗程式設計\calculator\calculator\bin\Release\calculator.application
+F:\大學\大三下\視窗程式設計\calculator\calculator\bin\Release\calculator.exe
+F:\大學\大三下\視窗程式設計\calculator\calculator\bin\Release\calculator.pdb
+F:\大學\大三下\視窗程式設計\calculator\calculator\bin\Release\calculator.xml
+F:\大學\大三下\視窗程式設計\calculator\calculator\obj\Release\calculator.Form1.resources
+F:\大學\大三下\視窗程式設計\calculator\calculator\obj\Release\calculator.Resources.resources
+F:\大學\大三下\視窗程式設計\calculator\calculator\obj\Release\calculator.vbproj.GenerateResource.Cache
+F:\大學\大三下\視窗程式設計\calculator\calculator\obj\Release\calculator.exe.manifest
+F:\大學\大三下\視窗程式設計\calculator\calculator\obj\Release\calculator.application
+F:\大學\大三下\視窗程式設計\calculator\calculator\obj\Release\calculator.exe
+F:\大學\大三下\視窗程式設計\calculator\calculator\obj\Release\calculator.xml
+F:\大學\大三下\視窗程式設計\calculator\calculator\obj\Release\calculator.pdb
